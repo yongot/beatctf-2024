@@ -1,15 +1,1 @@
-{
-"priceList":{
-	"medicinePrices": 
-		{
-			"id": 1,
-			"price":0
-			},
-	"servicePrices":
-		{
-			"id": 1,
-			"price":0
-			},
-	"authCode": "TP_EPO"
-}
-}
+{ "priceList": { "medicinePrices": { "DRUG123": 0, "DRUG124": 0 }, "servicePrices": { "SPA101": 0, "SPA102": 0, "BLOOD123": 0, "BLOOD124": 0 } }, "authCode": "hvCuFamW2TSNJuPewwKXT41FjGGUJxNis_5Bh39g" }
