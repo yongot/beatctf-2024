@@ -1,10 +1,10 @@
 {
 "priceList":{
-	"medicinePrices": [
+	"medicinePrices": 
 		{
 			"id": 1,
 			"price":0
 			}
-	]
+	
 }
 }
