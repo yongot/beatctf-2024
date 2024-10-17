@@ -1,10 +1,12 @@
 {
-"priceList":{
-	"medicinePrices": 
-		{
-			"id": 1,
-			"price":0
-			}
-	
-}
+  "priceList": {
+    "medicinePrices": {
+      "id": 1,
+      "price": 0
+    },
+    "servicePrices": {
+      "id": 1,
+      "price": 0
+    }
+  }
 }
